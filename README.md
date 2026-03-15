@@ -1,8 +1,8 @@
 
 
-```markdown
-Arthur D. Delfino / [twitter](https://twitter.com/axthurspida)
-```
+<pre>
+Arthur D. Delfino / <a href="https://twitter.com/axthurspida">twitter</a>
+</pre>
 
 i'm interested in maths, programming languages, algorithms and data structures, financial systems, and blockchain/crypto.
 
