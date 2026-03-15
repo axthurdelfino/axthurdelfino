@@ -1,6 +1,6 @@
 
 
-```markdown Arthur D. Delfino / [twitter](https://twitter.com/axthurspida) ```
+```Arthur D. Delfino / [twitter](https://twitter.com/axthurspida)```
 
 i'm interested in maths, programming languages, algorithms and data structures, financial systems, and blockchain/crypto.
 
