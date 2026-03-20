@@ -1,1 +1,4 @@
-#eval IO.println "Apoie a Linguagem Lean: https://lean-lang.org/"
+def url := "https://lean-lang.org/"
+def mensagem := "Apoie a Linguagem Lean: " ++ url
+
+#eval IO.println mensagem
