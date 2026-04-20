@@ -1,5 +1,0 @@
-def url := "https://lean-lang.org/"
-def mensagem := "Apoie a Linguagem Lean: " ++ url
-
-#eval IO.println mensagem
-
