@@ -8,4 +8,4 @@ i'm interested in maths, functional programming languages, financial systems, an
 
 i mainly work with ts/node, and i'm interested in backend engineering, distributed systems, fintech infrastructure, and crypto systems.
 
-i also enjoy exploring rust, nix, haskell and lean.
+i also enjoy exploring rust, nix and haskell.
