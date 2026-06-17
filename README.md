@@ -1,7 +1,7 @@
 
 
 <pre>
-Arthur  Delfino / <a href="https://twitter.com/axthurspida">twitter</a>
+Arthur  Delfino
 </pre>
 
 i'm interested in maths, functional programming languages, financial systems, and blockchain/crypto.
